@@ -1,3 +1,3 @@
 This file is edited in dev branch in github desktop
 This is a test document from dev branch
-Another edit
+This file is changed in STS
