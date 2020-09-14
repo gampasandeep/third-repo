@@ -1,2 +1,2 @@
-This file is edited in github repository
-This is a test document from dev branch committing from github desktop.
+This file is edited in dev branch in github desktop
+This is a test document from dev branch
